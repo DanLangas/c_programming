@@ -1,0 +1,21 @@
+########################################################################
+
+                OPERATORI ( A=20, B=10 )
+
+- Aritmetici : +, -, *, /, %, ++, --
+
+	A + B = 30; A - B = 10, A * B = 200; A / B = 2; A % B = 0; A++ = 21; A-- = 19
+
+- Relationali : ==, !=, >, <, >=, <=   output boolean value (1 or 0/ True or False)
+
+- Logici : &&, ||, !    output boolean value (1 or 0/ True or False)
+- Bitwise : &, |, ^, ~, <<, >>
+- Atribuire : =, +=, -=, *=, /=, %=, <<=, >>=, &=, ^=, |=
+- Alti Operatori : sizeof() - returns the size of a variable, & - returns the address od a variable, * - pointer to a variable, ?: - conditional expression
+
+
+
+
+
+
+########################################################################
